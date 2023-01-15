@@ -27,7 +27,7 @@
   <h3 align="center">Statistics and Multilinear Regression: Top Customer Value Drivers</h3>
 
   <p align="center">
-    Your lead, the head of analytics, calls you in for a short meeting. The topic of discussion is how to get you promoted to senior data analyst. You hear that you have great chances but, to be 100% sure, you will be tasked with a stretch assignment and, if successful, that would guarantee the promotion outcome. In your current role as data analyst for the marketing team, your tasks focus on driving commercial excellence using analytics. You are asked to show how the company can attain more market share by increasing the amount each existing customer spends with Diogo's Delicious Chocolate Company. Your goal is to provide key growth levers to the company using regression analysis to study spending drivers. The analysis must be excellent, showing excellent statistical domain knowledge as well as a great understanding of the business.
+
   </p>
 </div>
 
@@ -66,16 +66,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Your lead, the head of analytics, calls you in for a short meeting. The topic of discussion is how to get you promoted to senior data analyst. You hear that you have great chances but, to be 100% sure, you will be tasked with a stretch assignment and, if successful, that would guarantee the promotion outcome. In your current role as data analyst for the marketing team, your tasks focus on driving commercial excellence using analytics. You are asked to show how the company can attain more market share by increasing the amount each existing customer spends with Diogo's Delicious Chocolate Company. Your goal is to provide key growth levers to the company using regression analysis to study spending drivers. The analysis must be excellent, showing excellent statistical domain knowledge as well as a great understanding of the business.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
