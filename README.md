@@ -34,8 +34,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Your lead, the head of analytics, calls you in for a short meeting. The topic of discussion is how to get you promoted to senior data analyst. You hear that you have great chances but, to be 100% sure, you will be tasked with a stretch assignment and, if successful, that would guarantee the promotion outcome. In your current role as data analyst for the marketing team, your tasks focus on driving commercial excellence using analytics. You are asked to show how the company can attain more market share by increasing the amount each existing customer spends with Diogo's Delicious Chocolate Company. Your goal is to provide key growth levers to the company using regression analysis to study spending drivers. The analysis must be excellent, showing excellent statistical domain knowledge as well as a great understanding of the business.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
