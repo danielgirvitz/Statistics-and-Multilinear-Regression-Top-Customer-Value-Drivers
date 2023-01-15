@@ -34,6 +34,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Diogo's Delicious Chocolate Company has focused a lot on gaining market share. Recently, the spending each customer is doing has flattened. Your assignment, requested by the Marketing SVP, is to find opportunities and understand the drivers to increase revenue from existing customers. By completing this stretch project, you will guarantee that you get the promotion to Senior Data Analyst. You need to use a multilinear regression to uncover actionable insights, build a robust statistical model, and use it to make recommendations to the company on which characteristics of leads could generate above-average revenue. In your role as data analyst for the Marketing Analytics team, your mandate is to drive commercial and marketing excellence through analytics.
+
 Your lead, the head of analytics, calls you in for a short meeting. The topic of discussion is how to get you promoted to senior data analyst. You hear that you have great chances but, to be 100% sure, you will be tasked with a stretch assignment and, if successful, that would guarantee the promotion outcome. In your current role as data analyst for the marketing team, your tasks focus on driving commercial excellence using analytics. You are asked to show how the company can attain more market share by increasing the amount each existing customer spends with Diogo's Delicious Chocolate Company. Your goal is to provide key growth levers to the company using regression analysis to study spending drivers. The analysis must be excellent, showing excellent statistical domain knowledge as well as a great understanding of the business.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
